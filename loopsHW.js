@@ -30,17 +30,6 @@ console.log(count);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 // 3. Create a function that converts a string to all uppercase letters and console.log the result (hint: string methods):
 // let str = “WHAT a TIME to BE ALIVE!”
 
