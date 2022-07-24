@@ -1,6 +1,5 @@
 // The FizzBuzz problem is a classic test given in coding interviews. The task is simple: Print integers 1 to N, but print "Fizz" if an integer is divisible by 3, "Buzz" if an integer is divisible by 5, and "FizzBuzz" if an integer is divisible by both 3 and 5.
 
-// let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
 // function fizzBuzz(n) {
 //   for (let i = 1; i <= n; i++)
